@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--RimThunder - Red Dragon-->
+
+<Patch>
+	<!--AmmoSet_125mmT85-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_125mmT85_HEAT"]/label</xpath>
+		<value>
+			<label>125mmT85 cannon shell (HEAT)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_125mmT85_Sabot"]/label</xpath>
+		<value>
+			<label>125mmT85 cannon shell (APDS)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_125mmT85_HE"]/label</xpath>
+		<value>
+			<label>125mmT85 cannon shell (HE)</label>
+		</value>
+	</Operation>
+	<!--<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_125mmT85_EMP"]/label</xpath>
+		<value>
+			<label>125mmT85 cannon shell (EMP)</label>
+		</value>
+	</Operation>-->
+	
+</Patch>
