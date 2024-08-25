@@ -1,5 +1,9 @@
 Fix some ammo lables issues.
 
+# What it does
+Mod renames lables for some ammunition, based on the Ammunition Set. It helps to distinguish ammos from different sets even if they have the same caliber.
+It also adds caliber to the ammunition, which previously didn't have it (example - 100mm for BMP3).
+
 Example:
 Mod "RimThunder - Red Dragon" adds new set of ammo called "AmmoSet_125mmT85".
 It consists of <Ammo_125mmT85_HEAT>, <Ammo_125mmT85_Sabot>, <Ammo_125mmT85_HE> and <Ammo_125mmT85_EMP>.
@@ -16,3 +20,8 @@ This mod-fix changes some labels to be more appropriate. In that case it changes
 - 125mmT85 cannon shell (APDS)
 - 125mmT85 cannon shell (HE)
 - 125mmT85 cannon shell (EMP) <-- This is already in original mod
+
+# Currently patched mods
+- RimThunder - Core
+- RimThunder - Red Dragon
+- RimThunder - Breakthrough
