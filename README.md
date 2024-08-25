@@ -23,5 +23,8 @@ This mod-fix changes some labels to be more appropriate. In that case it changes
 
 # Currently patched mods
 - RimThunder - Core
-- RimThunder - Red Dragon
 - RimThunder - Breakthrough
+- RimThunder - Dragon Ascend
+- RimThunder - Red Dragon
+- RimThunder - Torrent Pioneer
+- RimThunder - Zarya
