@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--RimThunder - Dragon Ascend-->
+<Patch>
+
+	<!--AmmoSet_100mmShell-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_CN100mmAPS03_HEAT"]/label</xpath>
+		<value>
+			<label>100mm APS03 (HEAT)</label>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_CN100mmAPS03_HEAT"]/label</xpath>
+		<value>
+			<label>make 100mm APS03 Missile x5</label>
+		</value>
+	</Operation>
+	
+	<!--AmmoSet_125mmTC-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_CN125mmTC_HEAT"]/label</xpath>
+		<value>
+			<label>125mmTC DTP-125 cannon shell (HEAT)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_CN125mmTC_Sabot"]/label</xpath>
+		<value>
+			<label>125mmTC DTC10-125 cannon shell (APFSDS)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_CN125mmTC_HE"]/label</xpath>
+		<value>
+			<label>125mmTC DTB-125 cannon shell (HE)</label>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_CN125mmTC_HEAT"]/label</xpath>
+		<value>
+			<label>make 125mmTC DTP-125 HEAT cannon shells x5</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_CN125mmTC_HE"]/label</xpath>
+		<value>
+			<label>make 125mmTC DTB-125 HE cannon shells x5</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_CN125mmTC_Sabot"]/label</xpath>
+		<value>
+			<label>make 125mmTC DTC10-125 APFSDS cannon shells x5</label>
+		</value>
+	</Operation>
+	
+</Patch>

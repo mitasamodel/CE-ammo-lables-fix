@@ -22,5 +22,6 @@
 		<li>RimThunder.Core</li><!--RimThunder - Core-->
 		<li>RimThunderTeams.RimThunder.RedDragon</li><!--RimThunder - Red Dragon-->
 		<li>RimThunderTeams.RimThunder.Breakthrough</li><!--RimThunder - Breakthrough-->
+		<li>RimThunderTeams.RimThunder.DragonAscend</li><!--RimThunder - Dragon Ascend-->
 	</loadAfter>
 </ModMetaData>
