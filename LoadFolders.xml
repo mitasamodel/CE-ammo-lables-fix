@@ -7,5 +7,6 @@
 		<li IfModActive="RimThunderTeams.RimThunder.DragonAscend">ModPatches/RimThunder - Dragon Ascend</li>
 		<li IfModActive="RimThunderTeams.RimThunder.RedDragon">ModPatches/RimThunder - Red Dragon</li>
 		<li IfModActive="RimThunderTeams.RimThunder.TorrentPioneer">ModPatches/RimThunder - Torrent Pioneer</li>
+		<li IfModActive="RimThunderTeams.RimThunder.Zarya">ModPatches/RimThunder - Zarya</li>
 	</v1.5>
 </loadFolders>

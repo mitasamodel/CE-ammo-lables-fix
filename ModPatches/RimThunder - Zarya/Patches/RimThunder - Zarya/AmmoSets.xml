@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--RimThunder - Breakthrough-->
+
+<Patch>
+	<!--AmmoSet_9M133M-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_9M133_HEAT"]/label</xpath>
+		<value>
+			<label>9M120M Kornet AntiTank missile(HEAT)</label>
+		</value>
+	</Operation>
+
+	<!--AmmoSet_125mmTC-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_Ru125mmTCADV_Sabot"]/label</xpath>
+		<value>
+			<label>125mmTC 3BM59 cannon shell (APFSDS)</label>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_Ru125mmTCADV_Sabot"]/label</xpath>
+		<value>
+			<label>make 125mmTC 3BM59 APFSDS cannon shells x5</label>
+		</value>
+	</Operation>
+</Patch>

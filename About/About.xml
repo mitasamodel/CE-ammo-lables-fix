@@ -24,5 +24,7 @@
 		<li>RimThunderTeams.RimThunder.Breakthrough</li><!--RimThunder - Breakthrough-->
 		<li>RimThunderTeams.RimThunder.DragonAscend</li><!--RimThunder - Dragon Ascend-->
 		<li>RimThunderTeams.RimThunder.TorrentPioneer</li><!--RimThunder - Torrent Pioneer-->
+		<li>RimThunderTeams.RimThunder.Zarya</li><!--RimThunder - Zarya-->
+		
 	</loadAfter>
 </ModMetaData>
