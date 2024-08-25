@@ -24,7 +24,7 @@
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
-		<xpath>Defs/RecipeDef[defName="Ammo_120mmTC_HEAT"]/label</xpath>
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_120mmTC_HEAT"]/label</xpath>
 		<value>
 			<label>make 120mmTC M830 HEAT cannon shells x5</label>
 		</value>
