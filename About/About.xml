@@ -3,7 +3,7 @@
 	<packageId>mitasamodel.ceammolablesfix</packageId>
 	<name>Fix: CE Ammo Labels</name>
 	<author>mitasamodel</author>
-	<description>Fixes or adjusts some ammo-labels for CE. Most of issues come from other mods, which add new ammo sets</description>
+	<description>Fixes or adjusts some ammo labels for CE. Most of issues come from mods, which add new ammo sets</description>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
