@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--RimThunder - Core-->
+
+<Patch>
+	<!--AmmoSet_100mmShell-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_100mmShell_HE"]/label</xpath>
+		<value>
+			<label>100mm 3UOF19 (HE)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_100mmShell_HE"]/label</xpath>
+		<value>
+			<label>make 100mm 3UOF19 HE Shell x5</label>
+		</value>
+	</Operation>
+	
+	<!--AmmoSet_120mmTC-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_120mmTC_HEAT"]/label</xpath>
+		<value>
+			<label>120mmTC M830 cannon shell (HEAT)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="Ammo_120mmTC_HEAT"]/label</xpath>
+		<value>
+			<label>make 120mmTC M830 HEAT cannon shells x5</label>
+		</value>
+	</Operation>
+	
+	<!--AmmoSet_125mmTC-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_125mmTC_HE"]/label</xpath>
+		<value>
+			<label>125mmTC 3OF26 cannon shell (HE)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_125mmTC_HE"]/label</xpath>
+		<value>
+			<label>make 125mmTC 3OF26 HE cannon shells x5</label>
+		</value>
+	</Operation>
+</Patch>
