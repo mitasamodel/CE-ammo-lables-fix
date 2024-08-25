@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<loadFolders>
+	<v1.5>
+		<li>/</li>
+		<li IfModActive="RimThunder.Core">ModPatches/RimThunder - Core</li>
+		<li IfModActive="RimThunderTeams.RimThunder.RedDragon">ModPatches/RimThunder - Red Dragon</li>
+		<li IfModActive="RimThunderTeams.RimThunder.Breakthrough">ModPatches/RimThunder - Breakthrough</li>
+	</v1.5>
+</loadFolders>

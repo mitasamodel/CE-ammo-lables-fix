@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--RimThunder - Breakthrough-->
+
+<Patch>
+	<!--AmmoSet_100mmShell-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_Ru100mmShell_HEAT"]/label</xpath>
+		<value>
+			<label>100mm 9M117M (HEAT)</label>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_Ru100mmShell_HEAT"]/label</xpath>
+		<value>
+			<label>make 100mm 9M117M Missile x5</label>
+		</value>
+	</Operation>
+	
+	<!--AmmoSet_125mmTC-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_Ru125mmTC_HEAT"]/label</xpath>
+		<value>
+			<label>125mmTC 3BK18M cannon shell (HEAT)</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_Ru125mmTC_Sabot"]/label</xpath>
+		<value>
+			<label>125mmTC 3BM60 cannon shell (APFSDS)</label>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_Ru125mmTC_HEAT"]/label</xpath>
+		<value>
+			<label>make 125mmTC 3BK18M HEAT cannon shells x5</label>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/RecipeDef[defName="MakeAmmo_Ru125mmTC_Sabot"]/label</xpath>
+		<value>
+			<label>make 125mmTC 3BM60 APFSDS cannon shells x5</label>
+		</value>
+	</Operation>
+</Patch>
