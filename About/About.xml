@@ -18,13 +18,13 @@
 	</modDependencies>
 	
 	<loadAfter>
-		<li>CETeam.CombatExtended</li>
+		<li>CETeam.CombatExtended</li><!--Combat Extended-->
 		<li>RimThunder.Core</li><!--RimThunder - Core-->
 		<li>RimThunderTeams.RimThunder.RedDragon</li><!--RimThunder - Red Dragon-->
 		<li>RimThunderTeams.RimThunder.Breakthrough</li><!--RimThunder - Breakthrough-->
 		<li>RimThunderTeams.RimThunder.DragonAscend</li><!--RimThunder - Dragon Ascend-->
 		<li>RimThunderTeams.RimThunder.TorrentPioneer</li><!--RimThunder - Torrent Pioneer-->
 		<li>RimThunderTeams.RimThunder.Zarya</li><!--RimThunder - Zarya-->
-		
+		<li>RimThunderTeams.RimThunder.RoyalGuard</li><!--RimThunder - Royal Guard-->
 	</loadAfter>
 </ModMetaData>
