@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+	<!--RT_Ush_405_Vehicle_Blueprint-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/Vehicles.VehicleBuildDef[defName="RT_Ush_405_Vehicle_Blueprint"]/description</xpath>
+		<value>
+			<description>The U-SH 405 is an experimental tank destroyer with 2 rocket launcher, developed from Unimog truck chassis of Daimler-Benz in the late 1950's.</description>
+		</value>
+	</Operation>
+	
+</Patch>

@@ -9,5 +9,6 @@
 		<li IfModActive="RimThunderTeams.RimThunder.TorrentPioneer">ModPatches/RimThunder - Torrent Pioneer</li>
 		<li IfModActive="RimThunderTeams.RimThunder.Zarya">ModPatches/RimThunder - Zarya</li>
 		<li IfModActive="RimThunderTeams.RimThunder.RoyalGuard">ModPatches/RimThunder - Royal Guard</li>
+		<li IfModActive="RimThunderTeams.RimThunder.NortherngradLion">ModPatches/RimThunder - Northerngrad Lion</li>
 	</v1.5>
 </loadFolders>
