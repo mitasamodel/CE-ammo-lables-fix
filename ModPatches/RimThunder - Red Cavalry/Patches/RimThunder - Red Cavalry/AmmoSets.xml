@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!--AmmoSet_85mmTC-->
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="Ammo_85mmTC_EMP"]/label</xpath>
+		<value>
+			<label>85mm-TC cannon shell (EMP)</label>
+		</value>
+	</Operation>
+</Patch>

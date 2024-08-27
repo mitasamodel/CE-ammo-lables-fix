@@ -22,9 +22,12 @@ This mod-fix changes some labels to be more appropriate. In that case it changes
 - 125mmT85 cannon shell (EMP) <-- This is already in original mod
 
 # Currently patched mods
-- RimThunder - Core
 - RimThunder - Breakthrough
+- RimThunder - Core
 - RimThunder - Dragon Ascend
+- RimThunder - Northerngrad Lion
+- RimThunder - Red Cavalry
 - RimThunder - Red Dragon
+- RimThunder - Royal Guard
 - RimThunder - Torrent Pioneer
 - RimThunder - Zarya
