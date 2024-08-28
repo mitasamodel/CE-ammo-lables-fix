@@ -2,7 +2,7 @@ Fix some ammo lables issues.
 
 # What it does
 Mod renames lables for some ammunition, based on the Ammunition Set. It helps to distinguish ammos from different sets even if they have the same caliber.
-It also adds caliber to the ammunition, which previously didn't have it (example - 100mm for BMP3).
+It also adds description of the caliber to the ammunition, which previously didn't have it (example - 100mm for BMP3, caliber is not shown in the list by default).
 
 Example:
 Mod "RimThunder - Red Dragon" adds new set of ammo called "AmmoSet_125mmT85".
