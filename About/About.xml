@@ -15,10 +15,17 @@
 			<downloadUrl>https://github.com/CombatExtended-Continued/CombatExtended</downloadUrl>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/2890901044</steamWorkshopUrl>
 		</li>
+		<li>
+			<packageId>SmashPhil.VehicleFramework</packageId>
+			<displayName>Vehicle Framework</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	
 	<loadAfter>
 		<li>CETeam.CombatExtended</li><!--Combat Extended-->
+		<li>SmashPhil.VehicleFramework</li><!--Vehicle Framework-->
 		<li>RimThunder.Core</li><!--RimThunder - Core-->
 		<li>RimThunderTeams.RimThunder.RedDragon</li><!--RimThunder - Red Dragon-->
 		<li>RimThunderTeams.RimThunder.Breakthrough</li><!--RimThunder - Breakthrough-->
@@ -26,7 +33,7 @@
 		<li>RimThunderTeams.RimThunder.TorrentPioneer</li><!--RimThunder - Torrent Pioneer-->
 		<li>RimThunderTeams.RimThunder.Zarya</li><!--RimThunder - Zarya-->
 		<li>RimThunderTeams.RimThunder.RoyalGuard</li><!--RimThunder - Royal Guard-->
-		<li>RimThunderTeams.RimThunder.NortherngradLion</li><!--RimThunder - Northerngrad Lion-->
+		<!--<li>RimThunderTeams.RimThunder.NortherngradLion</li><!{1}**RimThunder - Northerngrad Lion**{1}>-->
 		<li>RimThunderTeams.RimThunder.RedCavalry</li><!--RimThunder - Red Cavalry-->
 	</loadAfter>
 </ModMetaData>
