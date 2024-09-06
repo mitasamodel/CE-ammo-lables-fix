@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Patch>
-	<!--AmmoSet_40x304mmR-->
-	<Operation Class="PatchOperationReplace">
+	<!--AmmoSet_40x304mmR--> 
+	<!--FIXED IN THE MOD <Operation Class="PatchOperationReplace">
 		<xpath>Defs/CombatExtended.AmmoSetDef[defName="AmmoSet_40x304mmR"]/label</xpath>
 		<value>
 			<label>40x304mmR</label>
 		</value>
-	</Operation>
+	</Operation>-->
 </Patch>
